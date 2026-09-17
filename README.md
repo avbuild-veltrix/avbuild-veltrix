@@ -1,365 +1,144 @@
 <div align="center">
 
-# `avinash@dev`
+<br>
 
-**AVINASH KUMAR**
+### AVINASH KUMAR
 
-`CS STUDENT` · `SOFTWARE ENGINEERING` · `AI / ML`
+**Software Engineering** — with a specialization in **AI / ML**
 
-`~/building-the-future`
+B.Tech Computer Science · India
 
 <br>
 
-**I build to understand.
-I learn to build better.**
+*I don't ship what I don't understand.*
 
-[GitHub](https://github.com/avbuild-veltrix) · [LinkedIn](https://www.linkedin.com/in/avinash-ai-engg) · [Email](mailto:avinashrk2107@gmail.com)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-avbuild--veltrix-181717?style=flat-square&logo=github)](https://github.com/avbuild-veltrix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/avinash-ai-engg)
+[![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avinashrk2107@gmail.com)
 
 </div>
 
 <br>
 
-```console
-$ whoami
-
-avinash@dev
-
-$ cat /etc/identity
-
-Computer Science student building toward software engineering,
-with Artificial Intelligence & Machine Learning as a specialization.
-
-I enjoy understanding what happens underneath the abstractions,
-building the things I learn, and turning ideas into usable software.
-
-$ echo $CURRENT_DIRECTION
-
-software-engineering + ai/ml + systems
 ```
+$ cat identity.txt
 
----
+A CS student building toward software engineering,
+with AI/ML as where the real curiosity lives.
 
-## `01 / about`
-
-```yaml
-name:        Avinash Kumar
-education:   B.Tech Computer Science
-location:    India
-
-identity:
-  primary:   Software Engineering
-  focus:     Artificial Intelligence & Machine Learning
-
-interests:
-  - Backend Engineering
-  - Data Structures & Algorithms
-  - System Design
-  - Machine Learning
-  - LLMs / RAG
-  - Building real products
-
-currently:
-  building:   practical AI-powered applications
-  learning:   SQL · FastAPI · PostgreSQL · React
-  practicing: DSA · System Design · Core CS
-  exploring:  AI Engineering · LLM applications
-```
-
----
-
-## `02 / software-philosophy`
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  SOFTWARE PHILOSOPHY                                            │
-│                                                                 │
-│  Don't use an abstraction you don't understand.                │
-│  Don't build a system you cannot explain.                      │
-│  Don't trust code just because AI generated it.                │
-│                                                                 │
-│  Learn the fundamentals.                                        │
-│  Build the thing.                                               │
-│  Break the thing.                                               │
-│  Find out why.                                                  │
-│  Fix it properly.                                               │
-│  Then make it simpler.                                          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-> **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**
-> — Martin Fowler
-
----
-
-## `03 / what-i-build`
-
-```console
-$ tree ./work
-
-./work
-│
-├── software
-│   ├── backend-systems
-│   ├── web-applications
-│   └── APIs
-│
-├── artificial-intelligence
-│   ├── machine-learning
-│   ├── LLM-applications
-│   └── RAG
-│
-├── computer-science
-│   ├── data-structures
-│   ├── algorithms
-│   ├── databases
-│   └── system-design
-│
-└── experiments
-    ├── ideas
-    ├── prototypes
-    └── things-that-broke
-```
-
----
-
-## `04 / selected-builds`
-
-### `01 — Flow`
-
-**Productivity platform**
-
-A task and productivity application built around making personal workflows simpler and more organized.
-
-```text
-frontend       React · Vite · Tailwind
-architecture  moving toward FastAPI + PostgreSQL
-engineering   authentication · APIs · testing · deployment
-status        ████████░░  evolving
-```
-
----
-
-### `02 — RepoLens`
-
-**AI-powered repository assistant**
-
-Exploring how an AI system can understand a software repository and answer questions using retrieved code as evidence rather than relying purely on model memory.
-
-```text
-pipeline       repository → ingestion → chunking
-               → embeddings → retrieval → LLM → evidence
-
-focus          RAG · code understanding · retrieval
-status         building
-```
-
----
-
-### `03 — Machine Learning`
-
-**Practical ML experiments**
-
-Hands-on work across prediction, classification, computer vision and data analysis.
-
-```text
-House Price Prediction
-Fraud Detection
-Tree Species Classification
-Smart Waste Management
-```
-
-The goal isn't simply to train models.
-
-**Understand the data → build the pipeline → evaluate the result → understand what failed.**
-
----
-
-## `05 / technical-foundation`
-
-```text
-LANGUAGES
-Python · C++
-
-DATA / AI
-NumPy · Pandas · Matplotlib
-Machine Learning · LLMs · RAG
-
-BACKEND
-FastAPI · REST APIs
-
-DATABASES
-SQL · PostgreSQL
-
-FRONTEND
-React · HTML · CSS · JavaScript
-
-ENGINEERING
-DSA · System Design · Git · GitHub · Linux · Docker
+I care less about knowing a framework and more about
+knowing why it exists — what problem it was built to solve,
+and what happens underneath it when it's not.
 ```
 
 <br>
 
-```console
-$ cat philosophy-of-stack.txt
+## Engineering Philosophy
 
-Technologies change.
+Everything I build follows the same loop:
 
-Fundamentals compound.
-
-So I optimize for understanding,
-not for having the longest stack.
+```
+understand → build → break → debug → improve → ship
 ```
 
----
+A few things I hold to along the way:
 
-## `06 / engineering-process`
+- **Understand before abstracting.** If I can't explain it, I don't trust it — including my own code.
+- **Fundamentals before frameworks.** Tools change fast; the reasoning underneath them doesn't.
+- **AI is leverage, not a substitute.** I use it to move faster, never to skip understanding what the code actually does.
+- **Simplicity until complexity earns its place.** Most systems fail from being clever too early.
+- **Failure is data.** A model that quietly gets it wrong teaches more than one that gets it right by luck.
 
-```text
-               ┌──────────────┐
-               │   LEARN      │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │    BUILD     │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │    BREAK     │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │   DEBUG      │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │  UNDERSTAND  │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │   IMPROVE    │
-               └──────┬───────┘
-                      ↓
-               ┌──────────────┐
-               │    SHIP      │
-               └──────────────┘
-                      ↺
+<br>
+
+> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+> — Antoine de Saint-Exupéry
+
+<br>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Flow
+**Productivity & task-management platform**
+
+Started as a React + Vite + Tailwind + Firebase app to make personal workflows simpler — now being rebuilt toward a real backend: FastAPI, PostgreSQL, authentication, testing, Docker, and CI/CD.
+
+The interesting part isn't the app — it's the rebuild. Moving a working frontend project onto a production-grade backend, one deliberate piece at a time.
+
+`React` `FastAPI` `PostgreSQL` `Docker`
+**Status:** actively evolving
+
+</td>
+<td width="50%" valign="top">
+
+### RepoLens
+**AI repository assistant**
+
+An exploration into whether an LLM can actually *understand* a codebase — not guess from memory, but retrieve real code as evidence before answering.
+
+```
+repo → ingest → chunk → embed
+     → retrieve → LLM → evidence
 ```
 
----
+`Python` `LLMs` `RAG` `Embeddings`
+**Status:** building
 
-## `07 / current-processes`
+</td>
+</tr>
+</table>
 
-```console
-$ ps aux | grep avinash
+<details>
+<summary><strong>Machine Learning work</strong> — prediction, classification, and one lesson worth mentioning</summary>
 
-PID    PROCESS
-────────────────────────────────────────────────────────────
-101    software-engineering
-       backend · APIs · architecture · reliable systems
+<br>
 
-102    ai-ml
-       machine learning · LLMs · RAG · intelligent applications
+- **House Price Prediction** — regression, feature engineering, model evaluation
+- **Fraud Detection** — classification on imbalanced data
+- **Tree Species Classification** — image → species → inferred growth conditions
+- **Smart Waste Management** — a hackathon build where the model's confident output turned out to be wrong. That gap is the actual takeaway: results only mean something once you've checked the assumptions behind them.
 
-103    dsa
-       algorithms · problem solving · C++
+</details>
 
-104    systems
-       databases · system design · core CS
+<br>
 
-105    open-source
-       community · collaboration · continuous learning
+## Technical Foundation
+
+```yaml
+foundation:      Python, C++, NumPy, Pandas, Matplotlib
+currently building with:  Machine Learning, SQL, FastAPI, PostgreSQL, React
+practicing:       Data Structures & Algorithms, System Design
+exploring:        LLMs, RAG, AI Engineering
 ```
 
----
+This list is deliberately short. Everything on it is something I've actually built with — not something I've watched a tutorial on.
 
-## `08 / achievements`
+<br>
 
-```text
-2026
-└── Google Student Ambassador
+## Direction
 
-2025+
-├── Data Science / Machine Learning
-├── GenAI / LLM learning
-├── Developer community programs
-├── Hackathons
-└── Open-source & technical projects
+```
+NOW      → DSA · Machine Learning · SQL · CS fundamentals
+NEXT     → FastAPI · PostgreSQL · React · System Design
+DEEPER   → backend architecture · LLM engineering · production AI systems
 ```
 
-**The projects are the proof.
-The learning is the process.
-The journey is still in progress.**
+**Google Student Ambassador — 2026.** Also involved in developer communities, hackathons, and open-source, alongside ongoing AI/ML and software engineering learning.
 
----
-
-## `09 / roadmap`
-
-```console
-$ cat roadmap.txt
-
-NOW
-├── DSA
-├── Machine Learning
-├── SQL
-└── Software Engineering fundamentals
-
-NEXT
-├── FastAPI
-├── PostgreSQL
-├── React
-└── System Design
-
-DEEPER
-├── Backend architecture
-├── Distributed systems
-├── LLM engineering
-└── Production AI systems
-
-DIRECTION
-└── Software Engineer
-    └── AI/ML specialization
-```
-
----
-
-## `10 / git-log`
-
-```console
-$ git log --oneline --decorate
-
-build       → turning ideas into working software
-learn       → strengthening computer science fundamentals
-debug       → understanding why things fail
-explore     → ML → LLMs → RAG → AI engineering
-engineer    → APIs → databases → architecture
-repeat      → build something harder
-```
-
----
+<br>
 
 <div align="center">
 
-```console
-$ cat /etc/motd
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  Learn deeply.                                                │
-│  Build useful things.                                         │
-│  Understand what breaks.                                      │
-│  Ship what works.                                             │
-│                                                              │
-│  software-engineering + ai/ml                                │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-### `still learning · still building · still breaking things`
-
 <br>
 
-`avbuild-veltrix`
+Still early. Still building. Documenting the process on [GitHub](https://github.com/avbuild-veltrix).
+
+<sub>Avinash Kumar · avbuild-veltrix</sub>
 
 </div>
