@@ -1,268 +1,158 @@
-<!-- ========================= HEADER ========================= -->
+# Avinash Kumar
 
-<div align="center">
+### `CS Student · Software Engineering · AI/ML`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:1F6FEB&height=210&section=header&text=AVINASH%20KUMAR&fontSize=48&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Builder&descAlignY=60&descSize=18"/>
+> Building software to understand systems — not just to use them.
 
-<br>
+I’m a Computer Science student focused on becoming a strong software engineer, with **AI/ML as a major specialization**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+CS+Student+%7C+Aspiring+AI%2FML+Engineer;%24+focus+%E2%86%92+AI%2FML+%2B+Backend+%2B+Systems;%24+build+%E2%86%92+practical+software+%26+intelligent+applications;%24+status+%E2%86%92+learning+%7C+building+%7C+shipping" alt="Typing SVG"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/avinash-ai-engg">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="mailto:avinashrk2107@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</div>
+I enjoy going beyond tutorials: understanding how things work underneath, building practical products, debugging what breaks, and turning ideas into software that can actually be used.
 
 ---
 
-## `$ whoami`
-
-```yaml
-name:        Avinash Kumar
-role:        CS Student · Aspiring AI/ML Engineer
-education:   B.Tech Computer Science
-location:    India
-
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Backend Engineering
-  - Data Structures & Algorithms
-  - System Design
-
-currently:
-  - Building practical AI-powered applications
-  - Strengthening software engineering fundamentals
-  - Turning ideas into deployable projects
-
-mindset:
-  learn → build → break → understand → improve → ship
-```
-
-> **I build intelligent software, learn the systems behind it, and turn ideas into things people can actually use.**
-
----
-
-## `$ cat /now`
+## `./engineering-philosophy`
 
 ```text
-AI / ML          ███████████████████░░   learning + building
-Backend          ████████████████░░░░░   building
-DSA              █████████████████░░░░   practicing
-System Design    ████████████░░░░░░░░   learning
-Open Source      ████████░░░░░░░░░░░░   exploring
+Understand before abstracting.
+Build before claiming.
+Fundamentals before frameworks.
+Break things to understand them.
+Use AI as leverage, never as a substitute for understanding.
+Keep things simple until complexity is justified.
+Ship → learn → improve → repeat.
 ```
 
-### Current Direction
-
-**AI Engineering** → ML fundamentals → LLM applications → RAG → evaluation
-
-**Software Engineering** → Backend → APIs → Databases → Testing → Deployment
-
-**Computer Science** → DSA → OS → DBMS → Networks → System Design
+> “The best code is not the code that looks impressive.
+> It is the code that makes the problem simpler.”
 
 ---
 
-## `$ ls ~/projects`
+## `what i'm building`
 
-### `01` — Flow
+**Software Engineering**
 
-**Productivity platform evolving into a production-style application.**
+* Backend systems & APIs
+* Full-stack applications
+* Data-driven products
+* Reliable, maintainable software
 
-`React` `Vite` `Tailwind` `FastAPI` `PostgreSQL` `JWT` `Redis` `Docker`
+**AI / ML**
 
-* Task and productivity workflows
-* Backend-first architecture
-* Authentication and authorization
-* API design
-* Database persistence
-* Testing + CI/CD
+* Machine Learning systems
+* LLM-powered applications
+* RAG & retrieval systems
+* Practical AI products
 
-**Status:** `in development`
+**Computer Science**
 
----
-
-### `02` — Machine Learning Lab
-
-A collection of practical ML projects focused on understanding the complete workflow rather than only training models.
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
-
-Projects include:
-
-* House Price Prediction
-* Fraud Detection
-* Tree Species Classification
-* Smart Waste Classification
-
-**Focus:** `data → EDA → features → model → evaluation → insights`
+* Data Structures & Algorithms
+* Databases & system fundamentals
+* System Design
+* GATE / core CS preparation
 
 ---
 
-### `03` — RepoLens
+## `featured-work`
 
-**An AI-powered GitHub repository assistant designed to help developers understand unfamiliar codebases.**
+### Flow — Productivity Platform
 
-`Python` `LLM APIs` `RAG` `Embeddings` `FastAPI`
+A productivity application evolving from a frontend-focused project into a more production-oriented system.
 
-Planned capabilities:
+`React` `Vite` `Tailwind` `FastAPI` `PostgreSQL`
+
+**Focus:** authentication · APIs · data architecture · testing · deployment
+
+---
+
+### RepoLens — AI Repository Assistant
+
+An AI-powered system designed to understand GitHub repositories and answer questions using retrieved code as evidence.
+
+`Python` `LLMs` `RAG` `Embeddings`
+
+**Focus:** code ingestion · chunking · retrieval · grounded answers
+
+---
+
+### ML Projects
+
+A collection of practical machine-learning work covering prediction, classification, computer vision, and data analysis.
+
+**House Price Prediction · Fraud Detection · Tree Species Classification · Smart Waste Management**
+
+---
+
+## `current-stack`
+
+**Strongest foundation**
+
+`Python` · `C++` · `NumPy` · `Pandas`
+
+**Currently building**
+
+`Machine Learning` · `SQL` · `DSA` · `FastAPI` · `PostgreSQL` · `React` · `System Design` · `LLMs/RAG`
+
+---
+
+## `how i learn`
 
 ```text
-Repository
-    ↓
-Code ingestion
-    ↓
-Chunking + embeddings
-    ↓
-Retrieval
-    ↓
-LLM reasoning
-    ↓
-Evidence-backed answers
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Ship
 ```
 
-**Status:** `building`
+I’m less interested in collecting technologies and more interested in being able to **use, understand, debug, and eventually design them**.
 
 ---
 
-## `$ tech --stack`
+## `achievements & community`
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
-</p>
-
-### AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
-</p>
-
-`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `LLM APIs` · `RAG`
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis"/>
-</p>
-
-`REST APIs` · `JWT` · `pytest`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,ts"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,aws"/>
-</p>
+* 🎓 **Google Student Ambassador — 2026**
+* 🤝 Active involvement in developer communities and technical programs
+* 🧠 Continuous work across AI/ML, software engineering, DSA and computer science
+* 🚀 Building and maintaining practical projects alongside academic learning
 
 ---
 
-## `$ git log --oneline --focus`
+## `the direction`
 
 ```text
-AI/ML
-├── Machine Learning fundamentals
-├── Data analysis & visualization
-├── Model evaluation
-└── LLM applications / RAG
-
-Software Engineering
-├── Backend architecture
-├── REST APIs
-├── PostgreSQL
-├── Testing
-└── Deployment
-
 Computer Science
-├── Data Structures & Algorithms
-├── DBMS
-├── Operating Systems
-├── Computer Networks
-└── System Design
+      +
+Software Engineering
+      +
+AI / ML
+      ↓
+Build intelligent software
+      ↓
+Understand systems deeply
+      ↓
+Solve harder problems
+      ↓
+Build products that matter
 ```
 
----
-
-## `$ philosophy`
-
-```text
-I don't want to just use AI.
-
-I want to understand:
-    how it works,
-    how to build with it,
-    how to evaluate it,
-    and how to engineer reliable systems around it.
-```
-
-My goal is to become an engineer who can **understand the problem, design the system, build the solution, and use AI as a force multiplier.**
+I’m currently building toward becoming an engineer who can move from **problem → architecture → implementation → deployment**, while keeping strong fundamentals underneath.
 
 ---
 
-## `$ github --stats`
+## `connect`
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Avi-2113&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi-2113&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Avi-2113&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/avinash-ai-engg) · [Email](mailto:avinashrk2107@gmail.com) · [GitHub](https://github.com/avbuild-veltrix)
 
 ---
 
-## `$ activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi-2113&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## `$ contact`
-
-<div align="center">
-
-**Interested in AI, software engineering, open source, or building something useful?**
-
-<br>
-
-<a href="https://www.linkedin.com/in/avinash-ai-engg">
-<img src="https://img.shields.io/badge/Let's%20Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:avinashrk2107@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-21262D?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-```text
-$ exit
-
-Thanks for stopping by.
-Keep building.
-```
-
-</div>
+<p align="center">
+  <sub>Still learning. Still building. Still breaking things.</sub>
+</p>
